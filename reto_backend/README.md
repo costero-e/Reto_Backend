@@ -18,6 +18,10 @@ Paso 8: **Ejecuta el comando python manage.py migrate**
 
 Paso 9: **Ejecuta el comando python manage.py runserver**
 
-Paso 10: **Si quieres ir a la plataforma de Swagger, añade /docs al final de la página de ejecución que ha facilitado Django**
+Paso 10: **Ejecuta el comando python manage.py createsuperuser para crear un admin**
 
-Paso 11: **Si quieres ir a la plataforma de ReDocs, añade /redocs al final de la página de ejecución que ha facilitado Django**
+Paso 11: **Si quieres ir a la plataforma de Swagger, añade /docs al final de la página de ejecución que ha facilitado Django**
+
+Paso 12: **Si quieres ir a la plataforma de ReDocs, añade /redocs al final de la página de ejecución que ha facilitado Django**
+
+Nota final: **La plataforma para registar usuarios e introducir nuevos artículos escogida es Insomnia**
